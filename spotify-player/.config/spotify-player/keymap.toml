@@ -1,0 +1,18 @@
+# see formattibg here https://github.com/aome510/spotify-player/blob/master/docs/config.md#keymaps
+
+# Disable the 'q' key for quitting 
+[[keymaps]]
+command = "None"
+key_sequence = "q"
+
+[[keymaps]]
+command = "PreviousPage"
+key_sequence = "h"
+
+[[keymaps]]
+command = "ChooseSelected"
+key_sequence = "l"
+
+[[keymaps]]
+command = "LyricsPage"
+key_sequence = "L"
