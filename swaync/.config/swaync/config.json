@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "screenshot-menu": {
+      "exec": "sh -c '$HOME/.local/bin/screenshot-action-handler.sh'",
+      "app-name": "Screenshot", 
+      "run-on": "action"
+    }
+  }
+}
